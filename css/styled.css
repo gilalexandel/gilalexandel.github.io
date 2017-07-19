@@ -1,0 +1,19 @@
+body {
+  margin-top: 25px;
+font-family: 'Raleway', sans-serif;
+
+}
+
+.imagesCircle  {
+
+  width: 200px; height: 200px;
+
+ .border {
+    border-color: #212121;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+
+
