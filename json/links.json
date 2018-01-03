@@ -17,12 +17,7 @@
         "icon": "linkedin",
         "url": "http://linkedin.com/in/gilalexandel"
 	},
-    {
-        "name": "",
-        "color": "black",
-        "icon": "codepen",
-        "url": "https://codepen.io/gilalexandel/#"
-    },
+    
     {
         "name": "",
         "color": "#1769ff",
@@ -34,5 +29,11 @@
         "color": "black",
         "icon": "github-circle",
         "url": "https://github.com/gilalexandel"
+	},
+    {
+        "name": "",
+        "color": "#21204E",
+        "icon": "file-account",
+        "url": "gilalexandel-resume.pdf"
 	}
 ]

@@ -1,7 +1,7 @@
 [
     {
-        "name": "Personales Dominicanos",
-        "description": "Esta web esta dedicada a todos los Dominicanos y latinoamericanos que de alguna manera u otra han transcendido en la historia de Republica Dominicana y han sido de inspiracion para muchos. ",
+        "name": "Personajes Dominicanos",
+        "description": "Proyecto realizado en la pasantía del GCPS 2017.Un portal con las biografías de los personajes dominicanos y latinoamericanos que hicieron historia en la República Dominicana, y latinoamerica. ",
         "image": "images/1pd.jpg",
         "link": "http://personajesdominicanos.info/"
 	},
@@ -9,13 +9,13 @@
         "name": "Wikipedia Search",
         "description": "Realizado en los proyectos de FreeCodeCamp. Wikipedia Viewer con un estilo minimalista",
         "image": "images/2wiki.jpg",
-        "link": "https://google.com"
+        "link": "https://gilalexandel.github.io/WikipediaViewer/"
 	},
     {
         "name": "Resume",
         "description": "Mi Curriculum Vitae",
         "image": "images/3resume.jpg",
-        "link": "https://google.com"
+        "link": "gilalexandel-resume.pdf"
 	},
     {
         "name": "Codepen Projects",
